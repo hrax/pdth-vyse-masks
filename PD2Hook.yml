@@ -1,0 +1,10 @@
+﻿Config:
+ OutputMode: 0
+ OutputFile: PD2HookLOG.log
+ PrintOffsets: true
+ ExtraCols: 10
+ ExtraRows: 10
+
+PersistScripts:
+ - [lib/network/matchmaking/networkaccountsteam, vyse.lua]
+ # - [PSEUDO_CHANGER, PSEUDO_CHANGER.lua]

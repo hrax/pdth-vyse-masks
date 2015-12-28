@@ -1,7 +1,7 @@
 # Vyse Masks for PD: TH
 
-    **This will replace any lua hook mods you have. Check below for the hook you will need to add**
-    **Author does not take any resposibility for damages caused. Back up your save before you install**
+    This will replace any lua hook mods you have. Check below for the hook you will need to add
+    Author does not take any resposibility for damages caused. Back up your save before you install
 
 # How to install
 
